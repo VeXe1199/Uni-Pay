@@ -6,10 +6,6 @@ The University Payment App is designed to help students manage their financial a
 - [Features](#features)
 - [Requirements](#requirements)
 - [Tools and Technologies](#tools-and-technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
